@@ -1,0 +1,3 @@
+[submodule "visual-components/shared_resources"]
+	path = visual-components/shared_resources
+	url = https://github.com/techworkersco/shared_resources.git
